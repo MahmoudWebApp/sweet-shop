@@ -1,0 +1,27 @@
+.summary{
+    width:60%;
+    position: absolute;
+    top:50rem;
+    left:20%;
+    background-color:#1a0b02 ;
+    margin-top: -10rem;
+    height: 30rem;
+    z-index: 99;
+    border-radius: 15px;
+    text-align: center;
+    color:#fff;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.summary h1{
+    font-size: 3rem;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+.summary p {
+    font-size: 1.3rem;
+    font-weight: 700;
+    padding: 0 1rem;
+}

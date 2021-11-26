@@ -1,0 +1,36 @@
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #6d330c;
+  background-image: linear-gradient(to right , #6d330c, #a5673e);
+  width: 100%;
+  height: 7rem;
+  display: flex;
+  padding: 1rem  10rem;
+  align-items: center;
+  border-bottom: 1px solid #e2ac88;
+  z-index: 100;
+}
+.header h1 {
+  flex: 0 0 25%;
+  margin-right: auto;
+  margin-left: 2rem;
+  font-size: 2.5rem;
+  font-weight: 900;
+  color :#fff;
+text-transform: uppercase;
+}
+.headerbg{
+    margin-top: 7rem;
+    width:100%;
+    height: 50rem;
+
+}
+.headerbg img{
+    width: 100%;
+    height: inherit;
+    background-image: cover;
+    background-position: top;
+    clip-path: polygon(0 0, 100% 0%, 100% 80%, 0 100%);
+}
