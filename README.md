@@ -7,6 +7,6 @@ oriental sweets shop
 
 
 -Techniques used in the project:
-The project was built using the React library
- hooks -context Api - fetch Api -firebase
+The project was built using the React library(
+ hooks -context Api ) and  for API ( fetch Api -firebase)
  
